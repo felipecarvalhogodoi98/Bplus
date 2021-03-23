@@ -1,0 +1,12 @@
+#Arquivos objetos
+.Bmais.o
+.Dado.o
+.Key.o
+.main.o
+.Noh.o
+.Pagina.o
+.sequenceSet.o
+#Relatorio
+.Relatório.pdf
+#executavel
+.executavel.exe
