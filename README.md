@@ -24,4 +24,6 @@ Compilar "g++ -o executavel main.cpp Bmais.cpp Dado.cpp Pagina.cpp sequenceSet.c
 
 
 
+captura de pacotes
 
+https://drive.google.com/file/d/1g9gFX9xffJWl0f7SXVM1d6v4l7ojY3Ew/view
