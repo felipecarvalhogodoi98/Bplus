@@ -9,14 +9,14 @@
    
 <p align="center">
     Esta arvore B+ foi implementada como um indice de busca para um sequenceSet      
-    <img  src="https://github.com/felipecarvalhogodoi98/Bplus/tree.png" />
+    <img  src="https://github.com/felipecarvalhogodoi98/Bplus/blob/master/img/tree.png" />
     
 </p>
 
 
-   - ✅ "BACKEND" 
-   - ✅ "FRONTEND WEB" 
-   - ✅ "FRONTEND MOBILE" 
+   - ✅ "" 
+   - ✅ " " 
+   - ✅ "" 
 
 <>
 
